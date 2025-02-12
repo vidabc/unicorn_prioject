@@ -54,11 +54,6 @@ I designed an interactive dashboard offering an overview of several key performa
 
 ---
 
-## 📋 **Executive Summary**  
-- [Executive Summary Document](#) (Attach the link or file if necessary)
-
----
-
 ## 🔗 **Links**  
 
 - **Link to Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/vida2380/viz/Unicorn_17328724216660/Dashboard1)  
