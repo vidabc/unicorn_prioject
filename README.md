@@ -8,7 +8,7 @@ Unicorn is a family-owned business in the E-commerce sector, offering a wide ran
 ---
 
 ## 🎯 **Objective**  
-The goal was to create an interactive dashboard that provides insights into sales, profits, and order trends for the time period 2015–2018. Users should be able to filter results by time period, region, and product. The project focused on structuring the data and assembling the relevant pieces to provide quick, valuable insights.
+The goal was to create an interactive dashboard that provides insights into Unicorn's performance in sales, profits, and product category for the time period 2015–2018 for the Sales Team. Users should be able to filter results by time period, region, and product. The project focused on structuring the data and assembling the relevant pieces to provide quick, valuable insights.
 
 ---
 
