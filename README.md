@@ -15,8 +15,8 @@ The goal was to create an interactive dashboard that provides insights into Unic
 ## 🚀 **Approach and Implementation**  
 I designed an interactive dashboard offering an overview of several key performance indicators (KPIs). The distribution of orders highlighted a concentration in the West and East regions, with a smaller contribution from the Northeast. Key observations include:  
 
-- **Declining Profit Margins in 2018 Despite Increased Sales:** In 2018, despite an increase in sales and t he number of orders, profit experienced a decline. This could be attributed to
-  - Higher Discounts or Promotion
+- **Declining Profit Margins in 2018 Despite Increased Sales:** In 2018, despite an increase in sales and t he number of orders, profit experienced a decline. This could be attributed to
+  - Higher Discounts or Promotion
   - Shift Toward Low-Margin Products
 - The **top and bottom-performing products** both belong to the technology category. However, the bottom performers were sold at substantial discounts, leading to significant losses.  
 - Differences were observed between product categories: Office Supplies and Technology contributed positively to all-time profits, while Furniture had uneven performance across its subcategories.
