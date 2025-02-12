@@ -30,7 +30,6 @@ I designed an interactive dashboard offering an overview of several key performa
 
 2. **Tableau Dashboard**  
    - Built an interactive Tableau dashboard to present KPIs, trends, and actionable recommendations for business decision-making.
-<img width="580" alt="Screenshot 2025-02-04 at 19 17 01" src="https://github.com/user-attachments/assets/6f9e5135-2a2a-4566-96a3-11e75b59de20" />
 
 ---
 
