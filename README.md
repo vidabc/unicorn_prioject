@@ -18,9 +18,10 @@ I designed an interactive dashboard offering an overview of several key performa
 - **Declining Profit Margins in 2018 Despite Increased Sales:** In 2018, despite an increase in sales and t he number of orders, profit experienced a decline. This could be attributed to:
   - Higher Discounts or Promotion
   - Shift Toward Low-Margin Products
-- **Product Categories Performance:** The "Tables" subcategor y remains unprofitable across all regions and years except in 
+- **Product Categories Performance:** The "Tables" subcategory remains unprofitable across all regions and years except in 
 limited states.  
-- Differences were observed between product categories: Office Supplies and Technology contributed positively to all-time profits, while Furniture had uneven performance across its subcategories.
+- **Sales and Profit Trends by State:** The top 10 states with the highest sales have consistently been: 1. California, 2. New York, 
+3. Texas, 4. Washington, 5. Pennsylvania, 6. Florida,  7. Illinois, 8. Ohio,  9. North Carolina, and 10. Indiana. These states have shown a consistent pattern of profitability or lack thereof across all years. For instance, if a state was profitable in 2016, it remained profitable in 2017 and 2018, and similarly for unprofitable states.
 
 ---
 
