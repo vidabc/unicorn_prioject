@@ -12,11 +12,6 @@ The goal was to create an interactive dashboard that provides insights into Unic
 
 ---
 
-## 🚀 **Approach and Implementation**  
-I designed an interactive dashboard offering an overview of several key performance indicators (KPIs). The distribution of orders highlighted a concentration in the West and East regions, with a smaller contribution from the Northeast. 
-
----
-
 ## 📊 **Project Steps**  
 
 1. **SQL Queries**  
@@ -43,11 +38,6 @@ limited states.
 - **Expand data collection:** Gather additional data, such as return rates, product conditions, and customer feedback, to further refine product-level insights.  
 - **Optimize product portfolio:** Discontinue or revamp underperforming products based on profitability and customer feedback.  
 - **Expand marketing efforts:** Collaborate with the marketing team to increase order volumes in underrepresented regions (e.g., central states).
-
----
-
-## 🌟 **Standout Section**  
-- **Beyond Instructions:** While following the core requirements, I also explored subcategories, applied calculated metrics in Google Sheets (e.g., price per unit, profit margin), and customized Tableau filters for region-specific insights. This allowed for deeper analysis beyond basic KPIs.  
 
 ---
 
